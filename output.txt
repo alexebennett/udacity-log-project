@@ -1,0 +1,34 @@
+Please input query 1, 2 or 3.
+1. What are the most popular three articles of all time?
+2. Who are the most popular article authors of all time?
+3. On which days did more than 1 per cent of requests lead to errors?
+Option: 1
+Most popular articles:
+     338647 views - Candidate is jerk, alleges rival
+     253801 views - Bears love berries, alleges bear
+     170098 views - Bad things gone, say good people
+     84906 views - Goats eat Google's lawn
+     84810 views - Trouble for troubled troublemakers
+     84557 views - Balloon goons doomed
+     84504 views - There are a lot of bears
+     84383 views - Media obsessed with bears
+Would you like to query the database again? (Y/N)Y
+Please input query 1, 2 or 3.
+1. What are the most popular three articles of all time?
+2. Who are the most popular article authors of all time?
+3. On which days did more than 1 per cent of requests lead to errors?
+Option: 2
+Most popular authors:
+     507594 views - Ursula La Multa
+     423457 views - Rudolf von Treppenwitz
+     170098 views - Anonymous Contributor
+     84557 views - Markoff Chaney
+Would you like to query the database again? (Y/N)Y
+Please input query 1, 2 or 3.
+1. What are the most popular three articles of all time?
+2. Who are the most popular article authors of all time?
+3. On which days did more than 1 per cent of requests lead to errors?
+Option: 3
+Days with more than 1 percent of requests leading to errors:
+     July      17, 2016 - 2.32%
+Would you like to query the database again? (Y/N)
